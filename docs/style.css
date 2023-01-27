@@ -1,0 +1,25 @@
+html{
+    background-image: url("rain.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    color: white;
+    font-family: "Comic Sans MS","sans-serif";
+    size: 50px;
+}
+
+p{ 
+    color: white;
+    font-family: "Comic Sans MS","sans-serif";
+ font-size: 35px;
+}
+
+body{
+    color: rgb(180, 236, 250);
+    font-family: "Comic Sans MS", "sans-serif";
+    font-size: 40px;
+}
